@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-22.0.0_4a12d64dbcf358fe5ea4ef707d58bb782da75366\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b70c4c085bcc69ec03de579fbb49453a62b5b5ab">
+        <dex dex="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c5e8c9c04276de8bf89fc71c7c3c6c9a3d544c7b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-22.0.0_7a81c22c25fe9cff778e04634a965f779c502b71\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_89cccdb7507b45a1925fadf6b667db5f3981bebd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_f456a10f2fbe3afc9dc28164dd967d01feb6c82b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nawaz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_5f0091127467cad37f831690a30cc7dc9a827fb0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_04adfb2578d9e8f3d15512dd91a5955b491c7c89\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.2_493120b10cfb457714cec013425797eacb81a52f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_5997dd5030ed7f3e557ffa713784e4b35b23048c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="0b8aa306375eadf902e436db885463fe9284fae6">
+        <dex dex="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_512e071facb2a5bbe63021a0ddc89191aeffb09b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.2_bb799995a117ebcef9e7ffb93f0a9a04d55d1d25\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.2_9cf7f1ff678d182c4a95ea0d9f51d8b25be9d12c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_7b6371053cd4aa7ab21910fb0b0e8dab3aa92215\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.2_61043c8f1f72f1208735010d066318aec8e49ecf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.2_9014de63b5da3619e85ce30dac4cbce2965f30cd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.2_3f9d0a16d3402c575315ffbfe593477195d28ee4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.2_7afd4bb0ceff8f33e8103e997b3779c4844ad017\classes.dex" />
+    </item>
+
+</items>

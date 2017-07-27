@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "730245833093",
+    "project_id": "nth-bucksaw-126117"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730245833093:android:6642126170305c9d",
+        "android_client_info": {
+          "package_name": "com.example.tabu.testing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwQf7FHhSJ2bEWFQq9X_ICQ5i7dVLhMYg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

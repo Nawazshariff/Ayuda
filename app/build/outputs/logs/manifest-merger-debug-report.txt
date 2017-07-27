@@ -1,0 +1,456 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:2:1-104:12
+	package
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-gcm:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:7:22-71
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:8:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:10:5-68
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:10:22-65
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:12:5-82
+MERGED from [com.google.android.gms:play-services-gcm:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\AndroidManifest.xml:21:5-82
+MERGED from [com.google.android.gms:play-services-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\AndroidManifest.xml:21:5-82
+MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:12:22-79
+permission#com.example.tabu.testing.gcm.C2D_MESSAGE
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:14:5-16:47
+	android:protectionLevel
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:16:9-44
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:15:9-64
+uses-permission#com.example.tabu.testing.C2D_MESSAGE
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:18:22-73
+application
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:23:5-102:19
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:recyclerview-v7:22.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:22.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-core:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:26:9-41
+	android:allowBackup
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:25:9-43
+	android:theme
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.tabu.testing.Splash
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:29:9-37:20
+	android:label
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:31:13-45
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:30:13-35
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:32:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:33:17-69
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:35:27-74
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:40:9-48:20
+	android:exported
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:42:13-36
+	android:permission
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:43:13-73
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:41:13-66
+intent-filter#com.example.tabu.testing+com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:44:13-47:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:45:17-81
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:45:25-78
+category#com.example.tabu.testing
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:46:27-66
+service#com.example.tabu.testing.MyGcmListenerService
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:52:9-58:19
+	android:exported
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:53:13-73
+intent-filter#com.google.android.c2dm.intent.RECEIVE
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:55:13-57:29
+service#com.example.tabu.testing.MyInstanceIDListenerService
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:61:9-67:19
+	android:exported
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:63:13-37
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:62:13-80
+intent-filter#com.google.android.gms.iid.InstanceID
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:64:13-66:29
+action#com.google.android.gms.iid.InstanceID
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:65:17-79
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:65:25-77
+service#com.example.tabu.testing.RegistrationIntentService
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:69:9-72:19
+	android:exported
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:71:13-37
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:70:13-78
+activity#com.example.tabu.testing.MainActivity
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:75:9-79:20
+	android:label
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:77:13-45
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:76:13-41
+activity#com.example.tabu.testing.Home
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:80:9-84:20
+	android:label
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:82:13-45
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:81:13-33
+activity#com.example.tabu.testing.Description
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:85:9-89:20
+	android:label
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:87:13-45
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:86:13-40
+activity#com.example.tabu.testing.Accept
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:91:9-95:20
+	android:label
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:93:13-45
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:92:13-35
+activity#com.example.tabu.testing.Messages
+ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:96:9-100:20
+	android:label
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:98:13-45
+	android:name
+		ADDED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml:97:13-37
+uses-sdk
+INJECTED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:22.2.1] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:22.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:22.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-gcm:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-core:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\9.0.2\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:23.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nawaz\AndroidStudioProjects\Testing\app\src\main\AndroidManifest.xml
+activity#android.support.v7.widget.TestActivity
+ADDED from [com.android.support:recyclerview-v7:22.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\AndroidManifest.xml:23:9-25:56
+	android:label
+		ADDED from [com.android.support:recyclerview-v7:22.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\AndroidManifest.xml:25:13-53
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:22.0.0] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\AndroidManifest.xml:24:13-66
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:9-22:45
+MERGED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\AndroidManifest.xml:22:13-58
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+MERGED from [com.google.firebase:firebase-common:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\AndroidManifest.xml:9:13-58
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\AndroidManifest.xml:37:11-82
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:52:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:54:13-56:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:54:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:55:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.0.2] C:\Users\nawaz\AndroidStudioProjects\Testing\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\AndroidManifest.xml:55:25-77
